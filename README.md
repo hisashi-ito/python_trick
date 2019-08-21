@@ -5,3 +5,6 @@
 pythonの簡単なtrickを記載する
 
 1. モジュールのロードを相対パスでうまくやる
+```bash
+load_module
+```
